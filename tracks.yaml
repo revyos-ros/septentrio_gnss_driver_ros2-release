@@ -256,7 +256,7 @@ tracks:
     last_version: 1.4.0
     name: septentrio_gnss_driver
     patches: null
-    release_inc: '1'
+    release_inc: '2'
     release_repo_url: git@github.com:revyos-ros/septentrio_gnss_driver_ros2-release.git
     release_tag: v1.4.0
     ros_distro: humble
