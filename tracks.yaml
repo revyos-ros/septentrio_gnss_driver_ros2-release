@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/septentrio_gnss_driver_ros2-release.git
 tracks:
   1.2.0:
     actions:
