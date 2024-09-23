@@ -252,13 +252,13 @@ tracks:
     - git-bloom-generate -y rosdebian --prefix release/:{ros_distro} :{ros_distro}
       -i :{release_inc} --os-name debian
     devel_branch: master
-    last_release: v1.4.0
-    last_version: 1.4.0
+    last_release: v1.4.1
+    last_version: 1.4.1
     name: septentrio_gnss_driver
     patches: null
-    release_inc: '2'
+    release_inc: '0'
     release_repo_url: git@github.com:revyos-ros/septentrio_gnss_driver_ros2-release.git
-    release_tag: v1.4.0
+    release_tag: v1.4.1
     ros_distro: humble
     vcs_type: git
     vcs_uri: https://github.com/septentrio-gnss/septentrio_gnss_driver
